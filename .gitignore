@@ -1,0 +1,10 @@
+# ignore pytorch saved models
+*.pth
+*.trt
+
+# ignore python cache fils
+*__pycache__*
+
+# ingnore vscode config
+*.vscode
+

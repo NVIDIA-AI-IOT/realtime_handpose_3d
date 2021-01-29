@@ -1,0 +1,1 @@
+# CenterNet checkpoint directory
